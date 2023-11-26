@@ -10,7 +10,8 @@ pip install shell-gpt
 wget https://raw.githubusercontent.com/andrewpayne68/Shell-GPT/main/install-shellgpt.sh && chmod +x ./install-shellgpt.sh && ./install-shellgpt.sh
 ```
 
-You'll need an OpenAI API key, you can generate one [here](https://platform.openai.com/api-keys).
+You'll need an OpenAI API key, you can generate one [here](https://platform.openai.com/api-keys). 
+Note that OpenAI will give you $5 worth of free credit which will expire after 3 months.
 
 If the`$OPENAI_API_KEY` environment variable is set it will be used, otherwise, you will be prompted for your key which will then be stored in `~/.config/shell_gpt/.sgptrc`.
 
