@@ -7,7 +7,7 @@ pip install shell-gpt
 ```
 ## Installation Ubuntu / Debian / Linux Mint
 ```shell
-https://github.com/andrewpayne68/Shell-GPT/blob/main/install-shellgpt.sh
+wget https://raw.githubusercontent.com/andrewpayne68/Shell-GPT/main/install-shellgpt.sh && chmod +x ./install-shellgpt.sh && ./install-shellgpt.sh
 ```
 
 You'll need an OpenAI API key, you can generate one [here](https://beta.openai.com/account/api-keys).
