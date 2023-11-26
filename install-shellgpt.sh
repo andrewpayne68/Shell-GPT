@@ -25,6 +25,6 @@ source ~/.bashrc
 
 ## https://platform.openai.com/api-keys
 
-sgpt
+~/.local/bin/sgpt
 
 ## enter your API Key if none found - If the $OPENAI_API_KEY environment variable is set it will be used, otherwise, you will be prompted for your key which will then be stored in ~/.config/shell_gpt/.sgptrc.
